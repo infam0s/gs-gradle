@@ -35,7 +35,7 @@ dependencies {
 publishing {
     publications {
         jar(MavenPublication) {
-            groupId 'infam0s'
+            groupId 'infa.mOs'
             artifactId 'gs-gradle'
             version '1.0'
             from components.java
